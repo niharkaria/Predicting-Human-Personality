@@ -99,4 +99,4 @@ Personality prediction is increasingly used in hiring, education, therapy, and t
 ## 👤 Contributors
 
 - **Nihar Karia** – Data Analysis, Modeling, Documentation  
-  [LinkedIn](https://www.linkedin.com/in/nihar-karia) | [GitHub](https://github.com/yourusername)
+  [LinkedIn](https://www.linkedin.com/in/nihar-karia) | [GitHub](https://github.com/niharkaria)
